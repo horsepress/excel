@@ -1,3 +1,3 @@
 # excel
 
-This contains some Excel macros.
+This contains some custom Excel functions...
