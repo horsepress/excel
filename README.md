@@ -1,4 +1,4 @@
-# Excel - Tantrum menu
+# Excel customisations
 
 This is a package of customisations for Excel, which are added to a menu called "tantrum". 
 
